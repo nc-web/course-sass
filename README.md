@@ -1,4 +1,2 @@
-
-# MPA LIT
-
-    - MultiPage Aplication Developed with Lit (Web Components) 
+# course-sass
+NC Course - SASS
